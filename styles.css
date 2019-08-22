@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    background-color: #808bc4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    text-decoration: none;  
+    font-size: 30px;
+    color: #000000;
+}
+
+.stopwatch {
+    font-size: 80px;
+}
+
+.timer {
+    text-align: center;
+}
+
+.controls {
+    word-spacing: 20px;
+}
